@@ -10,5 +10,5 @@ my webpage structure, styling, an responsive layouts.
 
 https://hculp.github.io/portfolio/
 
-![Alt text](./assets/images/portfoliositepreview.png)
+![Alt text](./assets/images/portfoliositepreview.png "site preview")
 

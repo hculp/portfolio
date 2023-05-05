@@ -273,6 +273,13 @@ h3 {
     width: 37.5%;
 }
 
+#movie-app {
+    background-image: url('../images/movie-app-preview.png');
+    background-size: cover;
+    contain: content;
+    width: 37.5%;
+}
+
 /* sets left side border of info container to take up max height to give even division element */
 .info{
     border-left: 4px solid saddlebrown;

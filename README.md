@@ -2,7 +2,7 @@
 
 ## Description
 
-This is my personal webpage to act as my portfolio so that emplyers can contact me and reference 
+This is my personal webpage to act as my portfolio so that employers can contact me and reference 
 my webpage structure, styling, an responsive layouts.
 
 

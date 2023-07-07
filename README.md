@@ -2,13 +2,11 @@
 
 ## Description
 
-This is my personal webpage to act as my portfolio so that employers can contact me and reference 
+This is my personal webpage to act as my portfolio so that employers can contact me and reference
 my webpage structure, styling, an responsive layouts.
-
 
 ## Preview and Link
 
 https://hculp.github.io/portfolio/
 
-![Alt text](./assets/images/portfoliositepreview.png "site preview")
-
+![Alt text](./assets/images/updated-portfoliositepreview.png "site preview")

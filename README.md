@@ -9,4 +9,4 @@ my webpage structure, styling, an responsive layouts.
 
 https://hculp.github.io/portfolio/
 
-![Alt text](./assets/images/updated-portfoliositepreview.png "site preview")
+![Alt text](./assets/images/updated-2-portfoliopreview.png "site preview")
